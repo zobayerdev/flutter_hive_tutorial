@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Hive Tutorial',
       theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple)),
-      home: const MyHomePage(title: 'Flutter Hive Tutorial'),
+      home: const MyHomePage(title: 'Domain Manager'),
     );
   }
 }
