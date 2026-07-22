@@ -17,10 +17,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Hive Tutorial',
+      title: 'Domain Manager',
       theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple)),
-      home: const MyHomePage(title: 'Domain Manager'),
+      home: const MyHomePage(title: 'Domain Manager Apps'),
     );
   }
 }
