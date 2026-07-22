@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       title: 'Domain Manager Apps',
       theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple)),
-      home: const MyHomePage(title: 'Domain Manager Apps'),
+      home: const MyHomePage(title: 'Domain Manager'),
     );
   }
 }
